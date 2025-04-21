@@ -5,10 +5,13 @@
 - 📫 How to reach me: **Email**: Cfengsu1221@gmail.com | [LinkedIn](https://www.linkedin.com/in/cfengsu2002)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I can code for hours straight with a cup of coffee, but I can't resist a good sunset 🌅.
-
-   __    __
-  /  \__/  \
- /    o o   \
-(      ^     )
- \  \_____/  /
-  \________/
+ ,_     _
+ |\\_,-~/
+ / _  _ |    ,--.
+(  @  @ )   / ,-'
+ \  _T_/-._( (
+ /         `. \
+|         _  \ |
+ \ \ ,  /      |
+  || |-_\__   /
+ ((_/`(____,-'
