@@ -6,6 +6,6 @@
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I can code for hours straight with a cup of coffee, but I can't resist a good sunset 🌅.
 
-/\_/\
-( o.o )
- > ^ <
+   /\_/\
+  ( o.o )
+   > ^ <
