@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alex
+👋 Hi, I’m @Alex
 - 👀 I’m interested in **computer science**, **data analysis**, **software development**, and **AI**.
 - 🌱 I’m skilled in **C++**, **Python**, **Java**, and proficient in working with various **APIs**.
 - 💞️ I’m looking to collaborate on **open-source projects**, **AI-powered apps**, and **data-driven platforms**.
