@@ -1,4 +1,4 @@
-<img width="468" height="15" alt="image" src="https://github.com/user-attachments/assets/61ffd8bf-47a0-49de-b43c-768f63a2cc31" />- 👋 Hi, I’m @Alex
+- 👋 Hi, I’m @Alex
 - 👀 I’m interested in **computer science**, **data analysis**, **software development**, and **AI**.
 - 🌱 I’m skilled in **C++**, **Python**, **Java**, and proficient in working with various **APIs**.
 - 💞️ I’m looking to collaborate on **open-source projects**, **AI-powered apps**, and **data-driven platforms**.
