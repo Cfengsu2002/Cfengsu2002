@@ -10,17 +10,13 @@ I build backend services, full-stack applications, and interactive tools with **
 
 - **[Document Search & Uploads](https://github.com/Cfengsu2002/enterprise-ai-knowledge-assistant)** — Document ingestion, embedding generation, and semantic retrieval, alongside S3 multipart upload workflows. This project explores the storage and retrieval building blocks behind a document knowledge system.
 
-- **[HTTP Probe](https://github.com/Cfengsu2002/http-probe)** — A Go command-line tool for checking HTTP endpoints with bounded concurrency, request timeouts, safe redirects, ordered JSON reports, and race-tested local integration checks.
+- **[GatorRover](https://github.com/Amit-S-G/GatorRover)** — An ESP32-based rover with glove-controlled wireless steering, bidirectional NRF24L01 communication, environmental sound feedback, and browser-based live video streaming through a Node.js/Express server.
 
 ## Technologies
 
 - **Languages:** Java, Python, TypeScript, Go, C++
 - **Applications & data:** Spring Boot, FastAPI, React, PostgreSQL, Redis, MongoDB
 - **Development & deployment:** Git, Docker, GitHub Actions
-
-## Team Project
-
-**[GatorRover](https://github.com/Amit-S-G/GatorRover)** — A team project building an ESP32-based rover with wireless control.
 
 ## Contact
 
