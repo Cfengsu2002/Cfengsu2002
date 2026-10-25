@@ -4,7 +4,7 @@ I build backend services, full-stack applications, and interactive tools with **
 
 ## Selected Projects
 
-- **[Relay Chat](https://github.com/Cfengsu2002/relay-chat)** — A Java 17 and Spring Boot chat application with JWT authentication, public rooms, persistent message history, and native WebSocket delivery. Redis Pub/Sub synchronizes live notifications, while cursor-based recovery and idempotent retries handle interrupted connections.
+- **[Relay Chat](https://github.com/Cfengsu2002/relay-chat)** — A Java 17 and Spring Boot chat application with JWT authentication, persistent message history, and native WebSocket delivery. Redis Pub/Sub synchronizes instances, while cursor-based recovery and idempotent retries handle interrupted connections. Includes Docker Compose, Kubernetes examples, and integration and browser checks against PostgreSQL and Redis.
 
 - **[Intern-Hunter](https://github.com/Cfengsu2002/intern-hunter)** — A career-coaching application with AI-assisted resume feedback, internship listings and recommendations, and application tracking. A React/TypeScript interface connects to a FastAPI backend and MongoDB, with support for running AI features through a local Ollama server.
 
